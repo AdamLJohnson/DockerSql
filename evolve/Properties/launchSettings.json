@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EvolveMigration": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Server=localhost;Database=master;User Id=sa;Password=CorrectHorseBatteryStapleFor$;\" \"../db\""
+    }
+  }
+}
